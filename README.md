@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+This project is the frontend for my my django rest_api project https://github.com/Ibezimmichael/django_restapi
+
 In the project directory, you can run:
 
 ### `npm start`
